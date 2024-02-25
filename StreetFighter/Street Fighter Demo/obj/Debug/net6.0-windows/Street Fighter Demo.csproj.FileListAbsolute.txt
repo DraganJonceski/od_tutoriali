@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Street Fighter Demo\Street Fighter Demo\bin\Debug\net6.0-windows\Street Fighter Demo.exe
+C:\Users\User\source\repos\Street Fighter Demo\Street Fighter Demo\bin\Debug\net6.0-windows\Street Fighter Demo.deps.json
+C:\Users\User\source\repos\Street Fighter Demo\Street Fighter Demo\bin\Debug\net6.0-windows\Street Fighter Demo.runtimeconfig.json
+C:\Users\User\source\repos\Street Fighter Demo\Street Fighter Demo\bin\Debug\net6.0-windows\Street Fighter Demo.dll
+C:\Users\User\source\repos\Street Fighter Demo\Street Fighter Demo\bin\Debug\net6.0-windows\Street Fighter Demo.pdb
+C:\Users\User\source\repos\Street Fighter Demo\Street Fighter Demo\obj\Debug\net6.0-windows\Street Fighter Demo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Street Fighter Demo\Street Fighter Demo\obj\Debug\net6.0-windows\Street_Fighter_Demo.Form1.resources
+C:\Users\User\source\repos\Street Fighter Demo\Street Fighter Demo\obj\Debug\net6.0-windows\Street Fighter Demo.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Street Fighter Demo\Street Fighter Demo\obj\Debug\net6.0-windows\Street Fighter Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Street Fighter Demo\Street Fighter Demo\obj\Debug\net6.0-windows\Street Fighter Demo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Street Fighter Demo\Street Fighter Demo\obj\Debug\net6.0-windows\Street Fighter Demo.AssemblyInfo.cs
+C:\Users\User\source\repos\Street Fighter Demo\Street Fighter Demo\obj\Debug\net6.0-windows\Street Fighter Demo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Street Fighter Demo\Street Fighter Demo\obj\Debug\net6.0-windows\Street Fighter Demo.dll
+C:\Users\User\source\repos\Street Fighter Demo\Street Fighter Demo\obj\Debug\net6.0-windows\refint\Street Fighter Demo.dll
+C:\Users\User\source\repos\Street Fighter Demo\Street Fighter Demo\obj\Debug\net6.0-windows\Street Fighter Demo.pdb
+C:\Users\User\source\repos\Street Fighter Demo\Street Fighter Demo\obj\Debug\net6.0-windows\Street Fighter Demo.genruntimeconfig.cache
+C:\Users\User\source\repos\Street Fighter Demo\Street Fighter Demo\obj\Debug\net6.0-windows\ref\Street Fighter Demo.dll
